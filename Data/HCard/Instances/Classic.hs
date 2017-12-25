@@ -57,8 +57,8 @@ instance Ord Index where
                         _     -> GT
                 (V x) -> case j of
                         (V y) -> compare x y
-                        Ace   -> LT
-                        _     -> GT       
+                        Ace   -> GT
+                        _     -> LT       
 
 instance Enum Index where
         toEnum i 
