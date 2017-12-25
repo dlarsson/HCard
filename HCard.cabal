@@ -1,9 +1,9 @@
 Name:                   HCard
-Version:                0.1
+Version:                0.2
 Synopsis:               A library for implementing a Deck of Cards
 Description:            HCard provides a standard interface to a deck of cards -- providing shuffling, permutation irrelevant equality of hands, etc. 
-Homepage:               http://patch-tag.com/publicrepos/HCard
-Package-Url:            http://patch-tag.com/publicrepos/HCard
+Homepage:               http://github.com/dlarsson/HCard
+Package-Url:            http://github.com/dlarsson/HCard
 Category:               Game 
 License:                BSD3
 License-file:           LICENSE
